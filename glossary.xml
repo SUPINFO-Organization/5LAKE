@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Glossary</NAME>
+    <INTRO></INTRO>
+    <INTROFORMAT>1</INTROFORMAT>
+    <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+    <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+    <SHOWSPECIAL>1</SHOWSPECIAL>
+    <SHOWALPHABET>1</SHOWALPHABET>
+    <SHOWALL>1</SHOWALL>
+    <ALLOWCOMMENTS>0</ALLOWCOMMENTS>
+    <USEDYNALINK>1</USEDYNALINK>
+    <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+    <GLOBALGLOSSARY>0</GLOBALGLOSSARY>
+    <ENTBYPAGE>10</ENTBYPAGE>
+  <ENTRIES>
+    <ENTRY>
+      <CONCEPT>Databricks</CONCEPT>
+      <DEFINITION>An enterprise software platform that provides a unified analytics solution for data engineering, data science, and machine learning, built on top of Apache Spark.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Delta Lake</CONCEPT>
+      <DEFINITION>An open-source storage layer that brings ACID transactions to Apache Spark and big data workloads, enabling reliable data lakes.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Apache Spark</CONCEPT>
+      <DEFINITION>An open-source distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Data Lake</CONCEPT>
+      <DEFINITION>A centralized repository that allows you to store all your structured and unstructured data at any scale for analytics and machine learning.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>ACID Transactions</CONCEPT>
+      <DEFINITION>A set of properties that guarantee database transactions are processed reliably and ensure data integrity: Atomicity, Consistency, Isolation, Durability.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Data Versioning</CONCEPT>
+      <DEFINITION>The practice of keeping track of changes to datasets over time, enabling reproducibility and auditability in data processing.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Schema Enforcement</CONCEPT>
+      <DEFINITION>The process of ensuring that data adheres to a predefined schema, preventing corrupt or invalid data from entering the system.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Batch Processing</CONCEPT>
+      <DEFINITION>A processing mode where data is collected over a period and processed all at once, suitable for large volumes of data that do not require immediate results.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Real-Time Processing</CONCEPT>
+      <DEFINITION>A processing mode where data is processed immediately as it arrives, enabling quick decision-making and actions based on current data.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Performance Optimization</CONCEPT>
+      <DEFINITION>The practice of improving the efficiency and speed of data processing systems through techniques like caching, partitioning, and resource tuning.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Data Science</CONCEPT>
+      <DEFINITION>A multidisciplinary field focused on extracting knowledge and insights from data using scientific methods, algorithms, and systems.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Data Mining</CONCEPT>
+      <DEFINITION>The process of discovering patterns and relationships in large datasets using statistical and computational techniques.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Machine Learning (ML)</CONCEPT>
+      <DEFINITION>A subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Deep Learning (DL)</CONCEPT>
+      <DEFINITION>A subset of machine learning that uses neural networks with multiple layers to model complex patterns in data.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Convolutional Neural Network (CNN)</CONCEPT>
+      <DEFINITION>A type of deep learning model particularly effective for analyzing visual imagery by using convolutional layers to detect features.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Recurrent Neural Network (RNN)</CONCEPT>
+      <DEFINITION>A type of neural network designed to recognize patterns in sequences of data by using loops in the network to maintain information.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Hyperparameter Tuning</CONCEPT>
+      <DEFINITION>The process of optimizing the hyperparameters of a machine learning model to improve its performance on a validation set.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Evaluation</CONCEPT>
+      <DEFINITION>The process of assessing a machine learning model's performance using metrics like accuracy, precision, recall, and F1-score.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Optimization</CONCEPT>
+      <DEFINITION>The process of improving a machine learning model's performance through techniques like hyperparameter tuning, feature selection, and algorithm adjustments.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>MLOps</CONCEPT>
+      <DEFINITION>A set of practices that combines machine learning, DevOps, and data engineering to deploy and maintain ML systems in production reliably and efficiently.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Deployment</CONCEPT>
+      <DEFINITION>The process of integrating a machine learning model into an existing production environment to make practical predictions based on input data.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Monitoring</CONCEPT>
+      <DEFINITION>The continuous tracking of a deployed model's performance and behavior in production to detect issues like drift or degradation.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Versioning</CONCEPT>
+      <DEFINITION>The practice of keeping track of different iterations of a machine learning model, allowing for rollback and comparison between versions.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Continuous Integration (CI)</CONCEPT>
+      <DEFINITION>A development practice where developers frequently integrate code changes into a shared repository, triggering automated builds and tests.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Continuous Deployment (CD)</CONCEPT>
+      <DEFINITION>An extension of continuous integration that automates the deployment of code changes to production environments after successful tests.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>CI/CD Pipeline</CONCEPT>
+      <DEFINITION>A set of automated processes that allow developers to build, test, and deploy applications more efficiently and reliably.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Lifecycle Management</CONCEPT>
+      <DEFINITION>The process of overseeing a machine learning model's progression from development to deployment and maintenance, ensuring it remains effective over time.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Version Control</CONCEPT>
+      <DEFINITION>The practice of tracking and managing changes to software code and related assets, facilitating collaboration and history tracking.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Testing in Machine Learning</CONCEPT>
+      <DEFINITION>The practice of validating machine learning models and code through unit tests, integration tests, and performance tests to ensure reliability and correctness.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>MLflow</CONCEPT>
+      <DEFINITION>An open-source platform for managing the end-to-end machine learning lifecycle, including experiment tracking, model packaging, and deployment.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Databricks Repos</CONCEPT>
+      <DEFINITION>A Databricks feature that integrates with Git repositories, enabling version control and collaboration on notebooks and code within the Databricks environment.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Databricks CLI</CONCEPT>
+      <DEFINITION>A command-line interface that allows users to interact with Databricks workspaces programmatically, automating tasks such as deploying notebooks and managing clusters.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>GitHub Actions</CONCEPT>
+      <DEFINITION>An automation platform that allows you to create custom workflows for your GitHub repositories, enabling CI/CD pipelines and other automated tasks.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Lakehouse</CONCEPT>
+      <DEFINITION>A data management architecture that combines the best features of data lakes and data warehouses, providing storage for both structured and unstructured data with support for ACID transactions.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Big Data</CONCEPT>
+      <DEFINITION>Large and complex datasets that traditional data processing software cannot manage efficiently, requiring specialized tools and technologies.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Distributed Computing</CONCEPT>
+      <DEFINITION>A computing paradigm where computational tasks are spread across multiple machines or nodes, working together to achieve a common goal.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Scalability</CONCEPT>
+      <DEFINITION>The capability of a system to handle a growing amount of work by adding resources, such as increasing data volume or computational power.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Performance Tuning</CONCEPT>
+      <DEFINITION>The process of optimizing system configurations and code to improve performance, such as reducing execution time or resource consumption.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Caching</CONCEPT>
+      <DEFINITION>A technique used to store frequently accessed data in memory to speed up data retrieval and improve performance.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Partitioning</CONCEPT>
+      <DEFINITION>The process of dividing data into distinct parts or partitions to optimize query performance and resource management.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Z-Ordering</CONCEPT>
+      <DEFINITION>A technique used in Delta Lake to colocate related information in the same set of files, improving data skipping and query performance.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Predictive Modeling</CONCEPT>
+      <DEFINITION>The process of using statistical techniques and machine learning algorithms to predict future outcomes based on historical data.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Machine Learning Algorithms</CONCEPT>
+      <DEFINITION>Algorithms used in machine learning to learn patterns from data and make predictions or decisions without being explicitly programmed.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>LSTM (Long Short-Term Memory)</CONCEPT>
+      <DEFINITION>A type of recurrent neural network architecture capable of learning long-term dependencies, widely used in sequence prediction problems.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Regression</CONCEPT>
+      <DEFINITION>A type of predictive modeling technique that estimates the relationships among variables, often used for predicting continuous outcomes.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Classification</CONCEPT>
+      <DEFINITION>A machine learning task of predicting a discrete class label output for an input example.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Model Training</CONCEPT>
+      <DEFINITION>The process of feeding data into a machine learning algorithm to enable it to learn and make predictions or decisions.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Feature Engineering</CONCEPT>
+      <DEFINITION>The process of using domain knowledge to extract features from raw data to improve the performance of machine learning models.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Spark MLlib</CONCEPT>
+      <DEFINITION>The machine learning library of Apache Spark, providing scalable algorithms for classification, regression, clustering, and collaborative filtering.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Cross-Validation</CONCEPT>
+      <DEFINITION>A model evaluation method that divides data into subsets to train and test the model multiple times, improving the reliability of performance estimates.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Grid Search</CONCEPT>
+      <DEFINITION>A hyperparameter optimization technique that exhaustively searches through a specified subset of hyperparameters to find the best model performance.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Hyperparameter Optimization</CONCEPT>
+      <DEFINITION>The process of finding the optimal set of hyperparameters for a machine learning model to maximize its performance.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>DevOps</CONCEPT>
+      <DEFINITION>A set of practices that combines software development and IT operations to shorten the development lifecycle and provide continuous delivery with high software quality.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>1</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Data Engineering</CONCEPT>
+      <DEFINITION>The aspect of data science that focuses on practical applications of data collection and analysis, building data pipelines and ensuring data is accessible and reliable.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>A/B Testing</CONCEPT>
+      <DEFINITION>A statistical method for comparing two versions of a variable to determine which one performs better in a controlled experiment.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Canary Deployment</CONCEPT>
+      <DEFINITION>A deployment strategy that releases new software to a small subset of users before rolling it out to the entire infrastructure, reducing the risk of introducing bugs.</DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>1</USEDYNALINK>
+      <CASESENSITIVE>1</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+    </ENTRY>
+  </ENTRIES>
+    </INFO>
+</GLOSSARY>
